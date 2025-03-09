@@ -36,7 +36,7 @@
 			responsive : {
 			0 : {
 				nav: false,
-				items: 2,
+				items: 1,
 			},
 			768 : {
 				nav: false,
